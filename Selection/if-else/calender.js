@@ -4,7 +4,7 @@ const DATE = 20;
 
 let combined = 0;
 let result = false;
-readline = require("readline-sync")
+readline = require("readline-sync");
 
 let day = parseInt(readline.question("Enter date : "));
 let month = parseInt(readline.question("Enter month : "));

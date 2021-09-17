@@ -1,4 +1,4 @@
-readline = require("readline-sync")
+readline = require("readline-sync");
 
 let year = parseInt(readline.question("Enter year : "));
 
